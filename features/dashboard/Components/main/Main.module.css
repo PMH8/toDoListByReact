@@ -1,0 +1,14 @@
+.main {
+    width: 65%;
+    padding:5% 7%;
+    background-color: grey;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.greetingText{
+    font-size: 20px;
+    font-weight: 500;
+}
+.timeofDay{
+    margin-top: 10px;
+}

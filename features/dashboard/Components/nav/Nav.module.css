@@ -1,0 +1,12 @@
+.nav {
+    width: 35%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10%;
+}
+.showItem{}
+.addTodoItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
